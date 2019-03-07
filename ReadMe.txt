@@ -20,12 +20,3 @@ Option 1:
 Option 2:
 		Manually call python3: `python3 ./main.py`
 
-
-Please insert the dataset according to the below file hierarchy.
-Fasta:
-├───data
-│   ├───fasta
-│   └───sa
-
- Go to project2_code/data/fasta--> drop a fasta file. Go to project2_code/data/sa--> drop the respective solvent accessibility labels file.
-However, a sample file has been placed in both the directories. After inserting, call main.py file. The results will be printed out.
